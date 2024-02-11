@@ -3,10 +3,10 @@ from email.message import EmailMessage
 import ssl
 import smtplib
 
-email_sender = 'shankertarunaditya369@gmail.com'
-email_password='swwm eiml rlhe gazf'
+email_sender = 
+email_password=
 
-email_receiver = 'tarunaditya91@gmail.com'
+email_receiver = 
 
 subject="testing to send a auto email"
 
